@@ -1,0 +1,167 @@
+
+
+body {
+
+  height: auto;
+  background: lightblue;
+}
+
+.language img {
+  margin-top: 10%;
+  width: 100%;
+}
+
+.language p {
+  font-size: 1em;
+}
+
+#danish {
+  text-align: center;
+  float: right;
+  width: 15%;
+  margin-right: 10%;
+}
+
+#english {
+  text-align: center;
+  float: right;
+  width: 15%;
+  margin-right: 5%;
+}
+
+h1 {
+  font-size: 2em;
+  padding-top: 80px;
+  padding-bottom: 100px;
+  text-decoration-line: underline;
+  text-align: center;
+}
+
+#headline h1 {
+  padding-bottom: 30px;
+}
+
+h2 {
+  font-size: 3em;
+  text-decoration-line: underline;
+}
+
+button {
+  border-radius: 10px;
+  background-color: darkblue;
+  color: white;
+  border: none;
+  font-size: 3em;
+  margin-left: 25%;
+  margin-right: 25%;
+
+}
+
+#email {
+  border-radius: 10px;
+  border: none;
+  width: 100%;
+  font-size: 1em;
+}
+
+#headline {
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+#filename {
+  width: 80%;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  font-size: 2em;
+  border: none;
+}
+
+#fakeBrowse {
+  background-color: darkblue;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  color: white;
+  border: none;
+  font-size: 1em;
+}
+
+.info {
+  margin-top: 5%;
+}
+
+#layout {
+  background-color: hsla(0, 0%, 50%, 0.3);
+  border-radius: 10px;
+  margin: 2%;
+  text-align: center;
+}
+
+#layout p {
+  padding-top: 15%;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: -1rem;
+}
+
+#last-message {
+  text-align: center;
+  margin-top: 5%;
+}
+
+#done {
+  margin-top: 10%;
+  font-size: 2em;
+}
+
+#info {
+  background-color: hsla(0, 0%, 50%, 0.3);
+  border-radius: 10px;
+  margin: 2%;
+}
+
+#question {
+  width: 60%;
+}
+
+ul {
+  margin-top: 2%;
+  font-size: 1 em;
+}
+
+#print-button {
+  font-size: 2em;
+  background-color: lightgrey;
+  text-transform: none;
+  margin-bottom: 2%;
+}
+
+/**gemmer orginale browser knappen**/
+#fileSelect {
+  width: 50%;
+  border-top-right-radius: 120px;
+  border-bottom-right-radius: 120px;
+  background-color: darkblue;
+  color: white;
+  border: none;
+  font-size: 1.5em;
+  margin-left: 80%;
+  padding: 2px;
+}
+
+#fileList {
+  text-decoration-style: none;
+}
+
+#value {
+  font-size: 3em;
+  text-align: center;
+  background: lightgrey;
+  color: white;
+  width: 70%;
+  margin: 15%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
